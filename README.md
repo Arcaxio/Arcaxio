@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arcaxio
 - 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning HTML, CSS, Javascript!
-- 💞️ I’m looking to collaborate on my website!
+- 🌱 I’m currently learning React, Next.js!
 - 📫 How to reach me? Only on Github!
 
 <!---
